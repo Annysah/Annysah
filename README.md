@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 💬 Ask me about: React & Typescript
+- 📫 How to reach me: [@AnisatAkinbani](https://twitter.com/AnisatAkinbani)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love potatoes
 <img 
    src="https://github-readme-stats.vercel.app/api?username=annysah&show_icons=true&theme=tokyonight" 
 />

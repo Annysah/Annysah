@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I'm Anisat Akinbani; Frontend Engineer, Technical Writer and Open Souce Contributor
+- 🌱 I'm **Anisat Akinbani**; Frontend Engineer, Technical Writer and Open Souce Contributor
 - 💬 Ask me about: React & Typescript
 - 📫 How to reach me: [@AnisatAkinbani](https://twitter.com/AnisatAkinbani)
 - 😄 Pronouns: She/Her

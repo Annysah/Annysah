@@ -1,5 +1,6 @@
-### Hi there 👋 
 ![Anisat Akinbani](https://media-exp1.licdn.com/dms/image/C4D16AQFn87-A61554Q/profile-displaybackgroundimage-shrink_350_1400/0/1609097576692?e=1642032000&v=beta&t=eoBmej0xQRFXvK_VkdlB6bZtcP_TmEO1gxon_PKBrNY)
+
+### Hi there 👋 
 
 <!--
 **Annysah/Annysah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

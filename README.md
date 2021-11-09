@@ -1,5 +1,3 @@
-![Anisat Akinbani](https://media-exp1.licdn.com/dms/image/C4D16AQFn87-A61554Q/profile-displaybackgroundimage-shrink_350_1400/0/1609097576692?e=1642032000&v=beta&t=eoBmej0xQRFXvK_VkdlB6bZtcP_TmEO1gxon_PKBrNY)
-
 ### Hi there 👋 
 
 <!--
@@ -16,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=annysah&show_icons=true&theme=tokyonight" 
+/>
+    

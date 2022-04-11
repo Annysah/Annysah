@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About Me
 - 🌱 I'm **Anisat Akinbani**, a Frontend Engineer, Technical Writer and Open Souce Contributor
 - 💬 Ask me about: React & Typescript
 - 📫 How to reach me: [@AnisatAkinbani](https://twitter.com/AnisatAkinbani)

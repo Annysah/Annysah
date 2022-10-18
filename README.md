@@ -33,5 +33,6 @@ Here are some ideas to get you started:
 <!--## Commit Streak
 [![Annysah's GitHub commit streak](https://github-readme-streak-stats.herokuapp.com/?user=Annysah&theme=tokyonight&fire=FFA500&ring=FFA500)](https://git.io/streak-stats)-->
     
-## Most Used Languages
+/*## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annysah&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+*/

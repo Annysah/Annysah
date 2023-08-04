@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🌱 I'm **Anisat Akinbani**, a Frontend Engineer, Technical Writer and Open Souce Contributor
 - 💬 Ask me about: React & Typescript
-- 📫 How to reach me: [@AnisatAkinbani](https://twitter.com/_annysah)
+- 📫 How to reach me: [@_annysah](https://twitter.com/_annysah)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love potatoes
 

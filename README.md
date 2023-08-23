@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 - Styled-components 
 - SASS
 
-## Stats
-[![Stats](https://github-readme-stats.vercel.app/api?username=Annysah&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!--## Stats
+[![Stats](https://github-readme-stats.vercel.app/api?username=Annysah&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--## Commit Streak
 [![Annysah's GitHub commit streak](https://github-readme-streak-stats.herokuapp.com/?user=Annysah&theme=tokyonight&fire=FFA500&ring=FFA500)](https://git.io/streak-stats)-->
